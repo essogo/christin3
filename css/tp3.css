@@ -1,0 +1,229 @@
+
+.nga{
+    font-size: 30px;
+    color: azure;
+    position: relative;
+    top: 30px;
+    margin-left: 76px;
+  }
+  a{
+    color: azure;
+  }
+ 
+nav.gogo{
+    display: flex;
+    align-items: center;
+    justify-content:flex-end;
+    gap: 2rem;
+    position: relative;
+    margin-right: 100px;
+    
+
+
+ }
+ 
+section.a{
+    background-image: url(../desktop/image-hero.jpg);
+        height: 450px;
+        width: 101%;
+
+
+
+     
+}
+.ta{
+    width: 30%;
+    padding: 10px;
+    position: relative;
+    bottom: 300px;
+    left: 90px;
+    font-size: 50px;
+    border: 1px whitesmoke solid;
+    color: rgb(255, 255, 255);
+}
+.bo h2{
+    font-size: 30px;
+}
+.bo p{
+    font-size: 10px;
+}
+.bo{
+    border: 1px white;
+    position: absolute;
+    left: 40%;
+    bottom: -400px;
+    background-color: white;
+}
+.im{
+   height: 300px;
+   position: absolute;
+   bottom: -300px;
+   left: 260px;
+
+}
+.supp h3{
+    font-size: 30px;
+    
+}
+.suppreme {
+    position: relative;
+    bottom: -500px;
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    text-align: center
+    
+}
+.suppreme h2{
+    font-size: 30px;
+    margin-left: 15%;
+}
+
+  
+.suppreme  p{
+    margin-right: 200px;
+
+}
+.pet{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 300px;
+    margin-top: 500px;
+    gap: 1rem;
+}
+.petasse{
+    display: flex;
+    flex-wrap: wrap;
+}
+.petass{
+    display: flex;
+    align-items: center;
+    justify-content:flex-end;
+    margin-right: 900px;
+    list-style: none;
+    gap: 2rem;
+    position: relative;
+    top: 40px;
+    
+}
+h3{
+    font-size: 25px;
+    margin-left: 300px;
+    position: relative;
+    top: 10px;
+    color: white;
+   
+}
+footer{
+    border: 1px black solid;
+    background-color: black;
+    position: relative;
+    top: 300px;
+    width: 105%;
+     
+}
+ul{
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content:flex-end;
+    gap: 3rem;
+    margin-right: 930px;
+    position: relative;
+    top: 15px;
+     
+    
+}
+p.ll{
+    margin-top: -550px;
+    margin-left: 420px;
+    color: white;
+    font-size: 25px;
+    opacity: 0.6;
+}
+div.n{
+    position: relative;
+    margin-top: -125px;
+    margin-left: 700px;
+    color: white;
+    position: relative;
+    font-size: 25px;
+    opacity: 0.9;
+}
+div.nn{
+    position: relative;
+    margin-top: -50px;
+    margin-left: 920px;
+    font-size: 25px;
+    opacity: 0.7;
+    color: white;
+    
+}
+div.nnn{
+    position: relative;
+    margin-top: -40px;
+    margin-left: 1200px;
+    font-size: 25px;
+    opacity: 0.7;
+    color: white;
+}
+div.nnnn{
+    position: relative;
+    font-size: 25px;
+   margin-top: 420px;
+   margin-left: 400px;
+    color: white;
+    opacity: 0.7;
+    
+}
+   .nnnnn{
+    position: relative;
+    font-size: 25px;
+   margin-top: -30px;
+   margin-left: 700px;
+   color: white;
+   opacity: 0.7;
+
+   }
+   .nnnnnn{
+    position: relative;
+    font-size: 25px;
+   margin-top: -60px;
+   margin-left: 900px;
+   color: white;
+   opacity: 0.7;
+
+   }
+   .nnnnnnn{
+    position: relative;
+    font-size: 25px;
+   margin-top: -60px;
+   margin-left: 1200px;
+   color: white;
+   opacity: 0.7;
+
+
+}
+   @media screen and(min-width: 594) and (max-width:818)
+   {
+      section{
+        width: 100%;
+        display: flex;
+        
+    }
+    
+   }
+
+
+
+
+
+
+
+    
+  
+
+
+
+
+ 
